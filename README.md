@@ -1,16 +1,17 @@
-# python_projects
+Python Projects
 
-# Project Name
+This repository contains my Python practice projects as I learn programming.
 
-## Description
-Short explanation of what the project does.
+---
 
-## Technologies
-Python, Flask, SQL, Jupyter Notebook, etc.
+1. Number Guessing Game
 
-## Features
-- Feature 1
-- Feature 2
+A simple Python game where the user guesses a randomly generated number.
 
-## How to Run
-Instructions for running your project locally.
+Features
+- Random number generation
+- User input handling
+- Loop-based game logic
+
+Technologies
+- Python
